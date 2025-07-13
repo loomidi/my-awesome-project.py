@@ -1,0 +1,15 @@
+# pyproject.toml
+[project]
+name = "my-awesome-project"
+version = "0.1.0"
+description = "A short description of my project."
+# ... other project metadata ...
+
+# 1. The machine-readable SPDX identifier for the primary license
+license = "MIT"
+
+# 2. Points to the file(s) containing the full license text
+#    This tells packaging tools to include this file in the distribution.
+license-files = { globs = ["LICENSE"] }
+# Alternative for older setuptools versions might be:
+# license-files = ["LICENSE"]
