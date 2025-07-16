@@ -1,0 +1,2 @@
+### How to Use: 1. **Save the files:** * Save the HTML code as `index.html`. * Save the CSS code as `style.css` in the *same folder* as `index.html`. * Save the JavaScript code as `script.js` in the *same folder* as `index.html`. 2. **Open `index.html`** in your web browser. You'll see a "Start" button. Click it, and it will change to "Stop" and a blue dial will fade in and start spinning. Click it again, and it will revert to "Start" and the dial will fade out. This provides a clear visual and interactive feedback for the start/stop functionality!
+You: .
